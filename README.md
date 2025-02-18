@@ -21,22 +21,28 @@
 ---
 
 ## 💻 Technical Skills
+
 ### **Programming & Scripting**
-- **Languages**: Python, SQL, R, Groovy Scripting, C, MATLAB, PySpark  
+- **Languages:** Python, R, SQL, Java, C, MATLAB, PLSQL, Groovy Scripting, DAX, T-SQL, SAS, Hive  
+- **Big Data & Databases:** PostgreSQL, Oracle DB, Snowflake, BigQuery, MongoDB, NoSQL, Azure SQL, SQL Server  
 
 ### **Machine Learning & AI**
-- **ML Frameworks**: Scikit-learn, TensorFlow, PyTorch, Keras  
-- **NLP & Generative AI**: BERT, GPT, NLTK, Sentence-Transformers, FAISS  
-- **Finance & Stock Market Analytics**: Options data, trend analysis, RFM segmentation  
+- **ML & Deep Learning Frameworks:** Scikit-learn, TensorFlow, PyTorch, Transformers, Hugging Face, Keras  
+- **NLP & Generative AI:** BERT, GPT-2, QLoRA, FAISS, Sentence-Transformers, OpenAI API, LLMs, Retrieval-Augmented Generation (RAG)  
+- **Computer Vision & Image Processing:** OpenCV, CNNs, Siamese Networks, Image Classification  
 
 ### **Data Engineering & Cloud**
-- **Big Data & Cloud**: Azure Synapse, Azure Data Factory, Apache Spark  
-- **Databases**: PostgreSQL, MySQL, ChromaDB  
-- **ETL & Automation**: Power BI, Tableau, Data Pipelines  
+- **Cloud Platforms:** Microsoft Azure (Fabric, Data Lake, Synapse, Event Hubs, Data Factory, Stream Analytics, Cosmos DB, DevOps), AWS (S3, EC2, SageMaker, Redshift, Lambda), Google Cloud Platform (GCP)  
+- **ETL & Workflow Automation:** Apache Airflow, Apache Spark, Databricks, Azure Data Factory, SSIS, Kafka, Hadoop, CI/CD Pipelines  
+- **MLOps & DevOps:** Docker, Kubernetes, GitHub Actions, Azure DevOps, Jenkins  
 
-### **Development & Deployment**
-- **APIs & App Development**: Flask, FastAPI, Streamlit  
-- **MLOps & CI/CD**: Docker, GitHub Actions  
+### **Business Intelligence & Data Visualization**
+- **BI Tools:** Power BI, Tableau, Looker, Oracle BI, Alteryx, Advanced Excel, SSRS  
+- **A/B Testing & Statistical Analysis:** Hypothesis Testing, MCDM, AHP, TOPSIS  
+
+### **Other Relevant Skills**
+- **Software Development & APIs:** Flask, FastAPI, REST APIs, Streamlit, Watch Cloud, PubSub  
+- **Agile & Project Management:** Jira, Agile, Scrum   
 
 ---
 
@@ -56,9 +62,10 @@
 *Tech Stack:* Python, NLP, Hugging Face, Transformers, Streamlit  
 🔗 [View Project](https://github.com/username/sentiment-analysis)
 
-### **4️⃣ Earthquake Data Analysis Pipeline**  
+### **4️⃣ End- to End - Data Engineer project- EarthQuake Dataset**  
 🔹 Built a **real-time earthquake data processing pipeline** using **Azure Synapse & Databricks**, generating **Power BI dashboards** for analytics.  
-*Tech Stack:* Azure Synapse, Databricks, Power BI  
+*Tech Stack:* Azure Synapse, Databricks, Power BI
+ 🔗 [View Project](https://github.com/abhiram7605/Azure_earthquake_end_to_end)
 
 ### **5️⃣ Signature Authentication System**  
 🔹 Developed a **Siamese neural network** for verifying signatures, achieving **98% accuracy** using shared-weight architectures.  
