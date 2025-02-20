@@ -83,6 +83,11 @@
 🔹 Automated **ETL workflows** for transforming raw Olympic data into insights, improving stakeholder **decision-making efficiency by 40%**.  
 *Tech Stack:* Apache Spark, Azure Data Factory, Tableau   🔗 [View Project](https://github.com/abhiram7605/Olympic_Data)  
 
+### **7️⃣ Cardiovascular Disease Prediction**
+🔹 Built a **machine learning pipeline** to predict cardiovascular disease, optimizing model performance through hyperparameter tuning and boosting algorithms, **enhancing prediction accuracy by 30%**.
+
+  *Tech Stack:* Python, Scikit-Learn, XGBoost, SMOTE, Jupyter Notebook  🔗 [View Project](https://github.com/abhiram7605/Cardio_vascular) 
+
 ---
 
 ## **<span style="color:#FFA500">📚 Publications & Research</span>**
