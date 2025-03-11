@@ -59,34 +59,38 @@
 ---
 
 ## **<span style="color:#00FA9A">🛠 Featured Projects</span>**
-  ### **1️⃣ Advanced Financial Data Retrieval System**  
+
+### **1️⃣ Advanced Financial Data Retrieval System**  
 🔹 Built a **Retrieval-Augmented Generation (RAG) pipeline** for financial data analysis, integrating **Sentence-Transformers and ChromaDB** for enhanced query accuracy.  
 *Tech Stack:* Python, NLP, FAISS, ChromaDB, Vector Search   🔗 [View Project](https://github.com/username/financial-data-retrieval)
 
-### **2️⃣ Signature Authentication System**  
+### **2️⃣ Credit Card Transaction & Customer Analysis Dashboard**  
+🔹 Developed an **interactive Power BI dashboard** for analyzing **credit card transactions and customer behavior**, integrating real-time data from **PostgreSQL**. The dashboard provides insights into **transaction trends, customer spending patterns, and key financial metrics** to help stakeholders make data-driven decisions.  
+*Tech Stack:* PostgreSQL, Power BI, Python, Pandas   🔗 [View Project](https://github.com/abhiram7605/Credit_Card_Dashboard)
+
+### **3️⃣ Signature Authentication System**  
 🔹 Developed a **Siamese neural network** for verifying signatures, achieving **98% accuracy** using shared-weight architectures.  
 *Tech Stack:* Deep Learning, TensorFlow, OpenCV   🔗 [View Project](https://github.com/username/signature-authentication)
 
-### **3️⃣ Customer Segmentation & Recommendation System**  
+### **4️⃣ Customer Segmentation & Recommendation System**  
 🔹 Developed an **RFM-based customer segmentation model**, achieving **98% accuracy** in personalized product recommendations.  
 *Tech Stack:* Streamlit, Random Forest, PCA, Clustering   🔗 [View Project](https://github.com/abhiram7605/Customer-Segmentation-and-Recommendation-System---E-Commerce-Dataset)
 
-### **4️⃣ Real-Time Twitter Sentiment Analysis**  
+### **5️⃣ Real-Time Twitter Sentiment Analysis**  
 🔹 Designed an **AI-powered sentiment classifier using BERT**, achieving **93% accuracy**, deployed as an interactive **Streamlit app**.  
 *Tech Stack:* Python, NLP, Hugging Face, Transformers, Streamlit  🔗 [View Project](https://github.com/abhiram7605/Twitter_Event_Detection)
 
-### **5️⃣ End-to-End - Data Engineer project- EarthQuake Dataset**  
+### **6️⃣ End-to-End - Data Engineer project- EarthQuake Dataset**  
 🔹 Built a **real-time earthquake data processing pipeline** using **Azure Synapse & Databricks**, generating **Power BI dashboards** for analytics.  
 *Tech Stack:* Azure Synapse, Databricks, Power BI  🔗 [View Project](https://github.com/abhiram7605/Azure_earthquake_end_to_end)
 
-### **6️⃣ Olympic Data Analytics**  
+### **7️⃣ Olympic Data Analytics**  
 🔹 Automated **ETL workflows** for transforming raw Olympic data into insights, improving stakeholder **decision-making efficiency by 40%**.  
 *Tech Stack:* Apache Spark, Azure Data Factory, Tableau   🔗 [View Project](https://github.com/abhiram7605/Olympic_Data)  
 
-### **7️⃣ Cardiovascular Disease Prediction**
-🔹 Built a **machine learning pipeline** to predict cardiovascular disease, optimizing model performance through hyperparameter tuning and boosting algorithms, **enhancing prediction accuracy by 30%**.
-
-  *Tech Stack:* Python, Scikit-Learn, XGBoost, SMOTE, Jupyter Notebook  🔗 [View Project](https://github.com/abhiram7605/Cardio_vascular) 
+### **8️⃣ Cardiovascular Disease Prediction**
+🔹 Built a **machine learning pipeline** to predict cardiovascular disease, optimizing model performance through hyperparameter tuning and boosting algorithms, **enhancing prediction accuracy by 30%**.  
+*Tech Stack:* Python, Scikit-Learn, XGBoost, SMOTE, Jupyter Notebook  🔗 [View Project](https://github.com/abhiram7605/Cardio_vascular)  
 
 ---
 
