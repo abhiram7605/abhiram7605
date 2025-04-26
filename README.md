@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <a href="#"> 
-    <img src="https://img.shields.io/badge/Location-Los Angeles,_New_York-0057B7?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: Los Angeles, California"/> 
+    <img src="https://img.shields.io/badge/Location-Los Angeles,_California-0057B7?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location: Los Angeles, California"/> 
   </a> 
   <a href="#"> 
     <img src="https://img.shields.io/badge/Open_to_Data_Science_&_ML_Roles-2E8B57?style=for-the-badge&logo=briefcase&logoColor=white" alt="Looking For: Data Science, ML, Analyst Roles"/> 
