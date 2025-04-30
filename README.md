@@ -104,9 +104,6 @@
 🎓 **Master of Science in Data Science**  
 📍 *State University of New York at Buffalo* | *Aug 2023 – Dec 2024*  
 
-🎓 **Master of Technology in Industrial Design**  
-📍 *Maulana Azad National Institute of Technology, Bhopal* | *Jul 2019 – May 2021*  
-
 ---
 
 ## **<span style="color:#20B2AA">🏆 Certifications</span>**
